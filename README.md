@@ -7,7 +7,7 @@ This is a simple real estate website built with Next.js. It showcases available 
 
 Here is a preview of the homepage:
 
-![Preview](./public/images/homepage.png)
+![Preview](./public/homepage.png)
 
 ## Features
 
