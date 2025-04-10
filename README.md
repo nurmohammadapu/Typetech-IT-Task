@@ -52,8 +52,8 @@ To get a local copy up and running, follow these simple steps.
 4. Open your browser and visit `http://localhost:3000` to see the website in action.
 
 ## Screenshots
+![Preview](/homepage.png)
 
-![Preview](./public/homepage.png)
 
 ## Contributing
 
