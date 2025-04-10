@@ -2,13 +2,6 @@
 # Real Estate Website
 
 This is a simple real estate website built with Next.js. It showcases available properties, with features like browsing listings, viewing property details, and a search filter to make the experience more intuitive.
-
-## Demo Preview
-
-Here is a preview of the homepage:
-
-![Preview](./public/homepage.png)
-
 ## Features
 
 - **Property Listings**: Displays a list of real estate properties with basic details like price, location, and image.
@@ -58,19 +51,9 @@ To get a local copy up and running, follow these simple steps.
 
 4. Open your browser and visit `http://localhost:3000` to see the website in action.
 
-## Folder Structure
+## Screenshots
 
-```
-/pages
-  /index.js           # Home page with property listings
-  /[propertyId].js     # Property details page
-/components
-  /PropertyCard.js     # Component for displaying a property listing
-  /PropertyDetails.js  # Component for displaying details of a selected property
-/styles
-  /globals.css         # Global styles
-  /tailwind.config.js  # TailwindCSS configuration
-```
+![Preview](./public/homepage.png)
 
 ## Contributing
 
