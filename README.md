@@ -7,7 +7,7 @@ This is a simple real estate website built with Next.js. It showcases available 
 
 Here is a preview of the homepage:
 
-![Form Preview](./public/homepage.png)
+![Preview](./public/images/homepage.png)
 
 ## Features
 
@@ -37,8 +37,9 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/real-estate-website.git
-    cd real-estate-website
+   git clone https://github.com/nurmohammadapu/Typetech-IT-Task.git
+   cd Typetech-IT-Task
+
     ```
 
 2. Install the dependencies:
@@ -79,10 +80,4 @@ Feel free to fork this repository, open issues, and submit pull requests. Contri
 
 This project is licensed under the MIT License.
 
-## Acknowledgments
 
-- Thanks to [Next.js](https://nextjs.org/) for the great framework.
-- Thanks to [TailwindCSS](https://tailwindcss.com/) for making styling easier.
-```
-
-In the above code, the `![Homepage Preview](public/homepage.png)` line will embed the image from the `public` folder. When viewed on GitHub or any markdown renderer, the image will appear as part of the README.
