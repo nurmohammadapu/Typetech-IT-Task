@@ -1,10 +1,3 @@
-To add the `homepage.png` image from the public folder to the README for a demo preview, you can reference it as follows:
-
-1. Make sure the `homepage.png` image is placed inside the `public` folder in your project.
-2. Update your `README.md` file to include the image.
-
-Here’s how you can modify the `README.md` to include the image:
-
 ```markdown
 # Real Estate Website
 
